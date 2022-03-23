@@ -1,4 +1,5 @@
-A simple social media application with users, posts, likes and comments - developed using React, Node, Express and MongoDB.  
+** React, Node, Express and MongoDB
+A simple social media application with users, posts, likes and comments**
 ---- 
 1. MongoDB
 2. npm install 
